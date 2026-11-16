@@ -1,6 +1,9 @@
-# Glossary-G-M
 
+<div align="center">
 
+  <h1>🔠 Glossary-G-M</h1>
+
+</div>
 
 <h3>
   🌖
