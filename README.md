@@ -42,6 +42,34 @@
 <br>
 
 <h3>
+  🔢
+  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
+    Glasgow Coma Scale (GCS) Analysis
+  </a>
+</h3>
+
+<p>
+  An interactive dashboard visualizing Glasgow Coma
+  Scale scores and clinical acuity across California hospitals.
+</p>
+
+<p>
+  <sub>January 2026 · Tableau, Microsoft Excel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://public.tableau.com/views/GlasgowComaScaleGCSAnalysisforCaliforniaHospitals2024/Dashboard1">
+    View Dashboard
+  </a>
+</p>
+
+<br>
+
+<h3>
   🏞️
   <a href="https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten">
     Hike to Khamsum Yulley Namgyal Chorten
