@@ -42,6 +42,43 @@
 <br>
 
 <h3>
+  🏞️
+  <a href="https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten">
+    Hike to Khamsum Yulley Namgyal Chorten
+    in Punakha District, Bhutan
+  </a>
+</h3>
+
+<p>
+  A geographic hiking guide mapping trail routes,
+  difficulty, and landscape information in Bhutan.
+</p>
+
+<p>
+  <sub>August 2024 · ArcGIS Online, ArcGIS Field Maps, ArcGIS Dashboard</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten/blob/main/Hike_to_Khamsum_Yulley_Namgyal_Chorten.png">
+    View Preview
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.arcgis.com/apps/dashboards/dac0a992d6af425dafb971901d277323">
+    View Dashboard
+  </a>
+</p>
+
+<p>
+  <sub><em>Dashboard access is restricted to the Bhutan 2024 GIS group.</em></sub>
+</p>
+
+<br>
+
+<h3>
   🌖
   <a href="https://github.com/redefiningvicky/MISSION-PYTHON">
     MISSION: PYTHON
