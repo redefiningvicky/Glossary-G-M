@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>🔠 Project Glossary G-M</h1>
+  <h1>🔠 Project Glossary G-I</h1>
 
 </div>
 
