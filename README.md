@@ -42,6 +42,38 @@
 <br>
 
 <h3>
+  🤝
+  <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship">
+    Gender in Entrepreneurship
+  </a>
+</h3>
+
+<p>
+  A statistical analysis examining factors influencing
+  women's entrepreneurship globally.
+</p>
+
+<p>
+  <sub>December 2024 · PSPP, Microsoft Excel, Google Slides</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship/blob/main/Presentation/Gender_in_Entrepreneurship.pdf">
+    View PDF
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship/tree/main/4_PSPP_Data">
+    View PSPP
+  </a>
+</p>
+
+<br>
+
+<h3>
   🔢
   <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
     Glasgow Coma Scale (GCS) Analysis
