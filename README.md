@@ -198,5 +198,3 @@
     Watch Video
   </a>
 </p>
-
-<br>
