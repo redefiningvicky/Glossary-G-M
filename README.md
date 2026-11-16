@@ -135,3 +135,15 @@
 <p>
   <sub><em>Dashboard access is restricted to the Bhutan 2024 GIS group.</em></sub>
 </p>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
