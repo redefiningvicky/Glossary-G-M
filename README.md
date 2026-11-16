@@ -169,3 +169,34 @@
 </p>
 
 <br>
+
+<h3>
+  💍
+  <a href="https://github.com/redefiningvicky/My-Ecrin">
+    My Ecrin
+  </a>
+</h3>
+
+<p>
+  A digital jewelry box for organizing and styling collections.
+</p>
+
+<p>
+  <sub>November 2026 · Replit, ChatGPT, Vercel, Github</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/My-Ecrin">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://my-ecrin.vercel.app/">
+    Launch App
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/My-Ecrin/">
+    Watch Video
+  </a>
+</p>
+
+<br>
