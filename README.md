@@ -90,7 +90,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
+  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale">
     View Project
   </a>
   &nbsp; • &nbsp;
