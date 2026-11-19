@@ -75,7 +75,7 @@
 
 <h3>
   🔢
-  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
+  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale">
     Glasgow Coma Scale (GCS) Analysis
   </a>
 </h3>
